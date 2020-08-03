@@ -20,3 +20,12 @@ Detect contours using OpenCV to evaluate OMR Sheet
 ###### 12. Compare Bubbled answer with actual answer
 ###### 13. Draw Contours on Correct options with red and green color(acc to filled bubble)
 ![Snap](screens/Final.png)
+
+## Working of OMRSheetRollNo.ipynb
+![Snap](screens/rsz_1rsz_1omr4.jpg)
+
+###### Wroking will be same with few changes
+###### 1. This time we need to consider exactly 1 bubbled contour in each column(not in row)
+###### 2. To filter Circular contours more accuratly, shape matching is applied on each filtered contour to remove any noisy contour(if any)
+
+
