@@ -2,7 +2,7 @@
 Detect contours using OpenCV to evaluate OMR Sheet
 
 ## Working of OMRSheet.ipynb
-![Snap](omrSheet2f.png)
+![Snap](screens/omrSheet2f.png)
 ###### 1. Convert Image to grayscale
 ###### 2. Remove Noise Using Gaussian Blur
 ###### 3. Apply Thresholding and find out edges
