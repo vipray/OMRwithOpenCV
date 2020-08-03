@@ -20,8 +20,3 @@ Detect contours using OpenCV to evaluate OMR Sheet
 ###### 12. Compare Bubbled answer with actual answer
 ###### 13. Draw Contours on Correct options with red and green color(acc to filled bubble)
 ![Snap](screens/Final.png)
-
-
-
-These files are without extension so to convert into images, add .jpg extension.
-![Snap](screens/main.png)
